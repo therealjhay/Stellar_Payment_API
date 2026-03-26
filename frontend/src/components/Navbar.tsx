@@ -128,19 +128,19 @@ const dashboardMobileNavLinks: DashboardNavLink[] = [
     href: "/dashboard/overview",
     label: "Overview",
     icon: OverviewIcon,
-    enabled: false,
+    enabled: true,
   },
   {
     href: "/dashboard/payments",
     label: "Payments",
     icon: PaymentsIcon,
-    enabled: false,
+    enabled: true,
   },
   {
     href: "/dashboard/webhooks",
     label: "Webhooks",
     icon: WebhooksIcon,
-    enabled: false,
+    enabled: true,
   },
   {
     href: "/dashboard/create",
